@@ -14,7 +14,7 @@
 
       <el-form-item prop="username">
         <span class="svg-container">
-          <svg-icon icon-class="wode" />
+          <svg-icon icon-class="zhanghao" />
         </span>
         <el-input
           ref="username"
@@ -29,7 +29,7 @@
 
       <el-form-item prop="password">
         <span class="svg-container">
-          <svg-icon icon-class="dianzan" />
+          <svg-icon icon-class="mima" />
         </span>
         <el-input
           :key="passwordType"
